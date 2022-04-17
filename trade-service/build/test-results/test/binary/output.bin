@@ -1,0 +1,3 @@
+o23:20:10.775 [Test worker] INFO com.barclays.service.TradeServiceImpl - inside service of getAllEmployeeList.
+\23:20:10.791 [Test worker] INFO com.barclays.service.TradeServiceImpl - trade.getVersion()
+„23:20:10.794 [Test worker] INFO com.barclays.service.TradeServiceImpl - Trade Data to be saved [com.barclays.model.Trade@4b32e6c5]

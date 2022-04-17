@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.barclays.controller.TradeControllerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-17T17:50:09" hostname="PRAVIN-PC" time="0.591">
+  <properties/>
+  <testcase name="Save Trade Data" classname="com.barclays.controller.TradeControllerTest" time="0.581"/>
+  <testcase name="Get all Trade Details" classname="com.barclays.controller.TradeControllerTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

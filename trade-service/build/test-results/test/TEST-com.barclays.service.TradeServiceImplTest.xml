@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.barclays.service.TradeServiceImplTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-04-17T17:50:10" hostname="PRAVIN-PC" time="0.286">
+  <properties/>
+  <testcase name="Get All Trade Details" classname="com.barclays.service.TradeServiceImplTest" time="0.272"/>
+  <testcase name="Save Trade Data" classname="com.barclays.service.TradeServiceImplTest" time="0.013"/>
+  <system-out><![CDATA[23:20:10.775 [Test worker] INFO com.barclays.service.TradeServiceImpl - inside service of getAllEmployeeList.
+23:20:10.791 [Test worker] INFO com.barclays.service.TradeServiceImpl - trade.getVersion()
+23:20:10.794 [Test worker] INFO com.barclays.service.TradeServiceImpl - Trade Data to be saved [com.barclays.model.Trade@4b32e6c5]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
